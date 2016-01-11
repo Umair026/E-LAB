@@ -1,0 +1,13 @@
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Frm_main.resources
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.config
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.manifest
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.application
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.pdb
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe.manifest
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.application
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\Elab\Wifi_Code\c#code memory\wifi\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

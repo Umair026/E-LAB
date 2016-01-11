@@ -1,0 +1,23 @@
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Elab\Wifi_Code\c#code memory\serial\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Elab\Wifi_Code\c#code memory\serial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Elab\Wifi_Code\c#code memory\serial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Desktop\c#filebackup\serial\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Engr.Umair\Desktop\c#filebackup\serial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Engr.Umair\Desktop\c#filebackup\serial\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Engr.Umair\Desktop\Rfid\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
