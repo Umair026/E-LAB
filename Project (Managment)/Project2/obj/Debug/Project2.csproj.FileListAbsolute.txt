@@ -1,0 +1,36 @@
+G:\Taimour\Project2\Project2\bin\Debug\Project2.exe.config
+G:\Taimour\Project2\Project2\bin\Debug\Project2.exe
+G:\Taimour\Project2\Project2\bin\Debug\Project2.pdb
+G:\Taimour\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+G:\Taimour\Project2\Project2\obj\Debug\Project2.Form1.resources
+G:\Taimour\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+G:\Taimour\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+G:\Taimour\Project2\Project2\obj\Debug\Project2.exe
+G:\Taimour\Project2\Project2\obj\Debug\Project2.pdb
+G:\Taimour\Project2\Project2\obj\Debug\Project2.DaySelecter.resources
+G:\Taimour\Project2\Project2\obj\Debug\Project2.Sample_Table.resources
+G:\Project2\Project2\bin\Debug\Project2.exe.config
+G:\Project2\Project2\obj\Debug\Project2.exe
+G:\Project2\Project2\obj\Debug\Project2.pdb
+G:\Project2\Project2\bin\Debug\Project2.exe
+G:\Project2\Project2\bin\Debug\Project2.pdb
+G:\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+G:\Project2\Project2\obj\Debug\Project2.DaySelecter.resources
+G:\Project2\Project2\obj\Debug\Project2.Form1.resources
+G:\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+G:\Project2\Project2\obj\Debug\Project2.Sample_Table.resources
+G:\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+F:\Project2\Project2\bin\Debug\Project2.exe.config
+F:\Project2\Project2\obj\Debug\Project2.exe
+F:\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Engr.Umair\Desktop\New folder\Project2\bin\Debug\Project2.exe.config
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.exe
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.pdb
+C:\Users\Engr.Umair\Desktop\New folder\Project2\bin\Debug\Project2.exe
+C:\Users\Engr.Umair\Desktop\New folder\Project2\bin\Debug\Project2.pdb
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.DaySelecter.resources
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.Sample_Table.resources
+C:\Users\Engr.Umair\Desktop\New folder\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
